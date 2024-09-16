@@ -1,0 +1,2 @@
+```bash
+rm -rf NightmareEncrypt
