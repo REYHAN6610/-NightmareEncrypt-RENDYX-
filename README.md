@@ -1,12 +1,19 @@
-EncryptionWith ancient texts of great power
+# Nightmare Encrypt
 
-Running in termux
+![Nightmare Encrypt](https://raw.githubusercontent.com/REYHAN6610/NightmareEncrypt/main/img/20240916_112604.png)
 
-apt update
-apt upgrade
-pkg update && pkg upgrade
+Encrypt your text with unique and very strong symbols.
+
+![Example Image](https://raw.githubusercontent.com/REYHAN6610/NightmareEncrypt/main/img/20240916_112942.jpg)
+
+## How to Run in Termux
+
+```bash
+pkg update
+pkg upgrade
 pkg install git -y
 pkg install python -y
-git clone https://github.com/REYHAN6610/-NightmareEncrypt-RENDYX-/tree/main
-cd -NightmareEncrypt-RENDYX-
-python nightmare_encrypt.py
+pkg install bash -y
+git clone https://github.com/REYHAN6610/NightmareEncrypt
+cd NightmareEncrypt
+bash start.sh
