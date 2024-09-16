@@ -18,3 +18,9 @@ pkg install bash -y
 git clone https://github.com/REYHAN6610/NightmareEncrypt
 cd NightmareEncrypt
 bash start.sh
+
+```
+## Delete Folder
+
+```bash
+rm -rf NightmareEncrypt
