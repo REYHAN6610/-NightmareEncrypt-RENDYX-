@@ -8,8 +8,6 @@ Encrypt your text with unique and very strong symbols.
 
 ## How to Run in Termux
 
-```bash
-rm -rf NightmareEncrypt
 
 ```bash
 pkg update
